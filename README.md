@@ -9,8 +9,10 @@
   In order to use loot on a Windows system, you will need
   the executables provided by NirSoft (password tools).
 
-  NirSoft's Password Recovery Tools:
-    http://nirsoft.net/password_recovery_tools.html
+  NirSoft's Password Recovery Tools:  
+  
+  http://nirsoft.net/password_recovery_tools.html
+
 	http://www.nirsoft.net/utils/wireless_key.html
 
   * Make sure to download tools with command-line options.
