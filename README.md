@@ -1,10 +1,10 @@
 
-#What is loot?
+# What is loot?
 
   A python script to automate gathering passwords and 
   information from the current user and operating system.
 
-##Configuration
+## Configuration
 
   In order to use loot on a Windows system, you will need
   the executables provided by NirSoft (password tools).
@@ -18,7 +18,7 @@
   Extract these to a folder named windows in the same
   directory where you currently have this script.
 
-##Execution
+## Execution
 
   Compile for desired operating system (Linux, OSX, Win).
   You can use either PyInstaller or Py2Exe for that!
@@ -26,6 +26,6 @@
   
   - For use in computer systems where you are authorized! ;)
 
-##Thanks for:
+## Thanks for:
 technicdynamic.com
 the builder of this project
